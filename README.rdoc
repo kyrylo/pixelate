@@ -7,12 +7,12 @@ Use it, change it, sell it. Do whatever you want.
 
 == Installation
 
-# 1. {Download}[http://kde-look.org/content/download.php?content=139472&id=1&tan=29526847] theme
-# 2. Launch Yakuake
-# 3. Press "Open Menu" button, choose "Configure Yakuake..." option, locate to 
+1. {Download}[http://kde-look.org/content/download.php?content=139472&id=1&tan=29526847] theme
+2. Launch Yakuake
+3. Press "Open Menu" button, choose "Configure Yakuake..." option, locate to 
 "Appearance" tab, press "Install skin..." button there, navigate to the 
 downloaded archive and open it
-# 4. Choose "Pixelate" skin and "Apply" it
+4. Choose "Pixelate" skin and "Apply" it
 
 == Cloning repository
 
