@@ -16,7 +16,6 @@ Use it, change it, sell it. Do whatever you want.
    downloaded archive and open it
 4. Choose "Pixelate" skin and "Apply" it
 
-
 == Directory structure
 
 There are two directories and three files at top-level. The <em>pixelate</em> directory contain all PNGs. You can manually
