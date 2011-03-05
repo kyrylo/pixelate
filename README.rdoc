@@ -16,7 +16,9 @@ Use it, change it, sell it. Do whatever you want.
 
 == Cloning repository
 
-: git clone git@github.com:curacao/pixelate.git
+Enter this into console:
+
+  git clone git@github.com:curacao/pixelate.git
 
 == Feedback
 
