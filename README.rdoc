@@ -5,6 +5,8 @@ seen before (especially, the default one) and decided to make my own. Then I
 thought, that sharing my theme is a good way to make happy other Yakuake users.
 Use it, change it, sell it. Do whatever you want.
 
+{}[http://img-kiev.fotki.yandex.ru/get/5703/curacaothe.1/0_519f1_30f90e78_orig]
+
 == Installation
 
 1. {Download}[http://kde-look.org/content/download.php?content=139472&id=1&tan=29526847] theme
