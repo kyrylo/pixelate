@@ -1,0 +1,24 @@
+= Pixelate
+
+Pixelate is an {Yakuake}[http://yakuake.kde.org/] skin. I merely dislike all Yakuake skins that ever 
+seen before (especially, the default one) and decided to make my own. Then I 
+thought, that sharing my theme is a good way to make happy other Yakuake users.
+Use it, change it, sell it. Do whatever you want.
+
+== Installation
+
+# 1. {Download}[http://kde-look.org/content/download.php?content=139472&id=1&tan=29526847] theme
+# 2. Launch Yakuake
+# 3. Press "Open Menu" button, choose "Configure Yakuake..." option, locate to 
+"Appearance" tab, press "Install skin..." button there, navigate to the 
+downloaded archive and open it
+# 4. Choose "Pixelate" skin and "Apply" it
+
+== Cloning repository
+
+* git clone git@github.com:curacao/pixelate.git
+
+== Feedback
+
+You are able to send me mails on <tt>kirill@silin.in</tt>.
+
