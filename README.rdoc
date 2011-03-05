@@ -16,6 +16,15 @@ Use it, change it, sell it. Do whatever you want.
    downloaded archive and open it
 4. Choose "Pixelate" skin and "Apply" it
 
+
+== Directory structure
+
+There are two directories and three files at top-level. The <em>pixelate</em> directory contain all PNGs. You can manually
+zip them to <em>tar.gz</em> archive. When you do that, you'll have skin package. To install it, read <em>step 2</em> of installation guide.
+The <em>xcf</em> directory holds GIMP files. This is where you come in as designer. <em>Xcf's</em>Directory structure is similar to <em>pixelate</em>.
+After editing the <em>.xcf</em>, you have to export PNG to <em>pixelate</em> directory. Make an archive from this directory, and then install it.
+Oh, and don't forget about two configuration <em>.skin</em> files.
+
 == Cloning repository
 
 Enter this into console:
