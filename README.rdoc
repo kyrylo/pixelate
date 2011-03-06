@@ -5,7 +5,7 @@ seen before (especially, the default one) and decided to make my own. Then I
 thought, that sharing my theme is a good way to make happy other Yakuake users.
 Use it, change it, sell it. Do whatever you want.
 
-{Screenshot1}[http://img-kiev.fotki.yandex.ru/get/5703/curacaothe.1/0_519f1_30f90e78_orig] | {Screenshot2}[http://img-kiev.fotki.yandex.ru/get/6005/curacaothe.1/0_51a64_bba12364_orig] | {Screenshot3}[http://img-kiev.fotki.yandex.ru/get/4908/curacaothe.1/0_51a63_8fe23abc_orig]
+{Screenshot1}[http://img-kiev.fotki.yandex.ru/get/6005/curacaothe.1/0_51ff6_de3148b8_orig] | {Screenshot2}[http://img-kiev.fotki.yandex.ru/get/5005/curacaothe.1/0_51ff7_64bb977e_orig] | {Screenshot3}[http://img-kiev.fotki.yandex.ru/get/5208/curacaothe.1/0_51ff8_58ec9a4a_orig]
 
 == Installation
 
