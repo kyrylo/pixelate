@@ -5,9 +5,9 @@ Email=kirill@silin.in
 Icon=/icon.png
 
 [Border]
-red=181
-green=203
-blue=211
+red=35
+green=35
+blue=35
 width=1
 
 [Text]
@@ -43,3 +43,4 @@ y=4
 up_image=/title/quit_up.png
 over_image=/title/quit_over.png
 down_image=/title/quit_down.png
+
