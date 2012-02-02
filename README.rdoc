@@ -1,36 +1,40 @@
 = Pixelate
 
-Pixelate is an {Yakuake}[http://yakuake.kde.org/] skin. I merely dislike all Yakuake skins that ever 
-seen before (especially, the default one) and decided to make my own. Then I 
-thought, that sharing my theme is a good way to make happy other Yakuake users.
-Use it, change it, sell it. Do whatever you want.
+* https://www.github.com/kyrylo/pixelate
 
-{Screenshot1}[http://img-kiev.fotki.yandex.ru/get/6005/curacaothe.1/0_51ff6_de3148b8_orig] | {Screenshot2}[http://img-kiev.fotki.yandex.ru/get/5005/curacaothe.1/0_51ff7_64bb977e_orig] | {Screenshot3}[http://img-kiev.fotki.yandex.ru/get/5208/curacaothe.1/0_51ff8_58ec9a4a_orig]
+== Description
+
+{Outward}[http://img-kiev.fotki.yandex.ru/get/6005/curacaothe.1/0_51ff6_de3148b8_orig.png]
+
+Pixelate is an {Yakuake}[http://yakuake.kde.org/] skin. I merely dislike all
+Yakuake skins that ever seen before (especially, the default one) and decided to
+make my own. Then I thought, that sharing my theme is a good way to make happy
+other Yakuake users. Use it, change it, sell it. Do whatever you want.
 
 == Installation
 
-1. {Download}[http://kde-look.org/content/download.php?content=139472&id=1&tan=29526847] theme
-2. Launch Yakuake
-3. Press "Open Menu" button, choose "Configure Yakuake..." option, locate to "Appearance" tab, 
-   press "Install skin..." button there, navigate to the 
-   downloaded archive and open it
-4. Choose "Pixelate" skin and "Apply" it
+1. {Download}[http://kde-look.org/content/download.php?content=139472] theme;
+2. Launch Yakuake;
+3. Press "Open Menu" button, choose "Configure Yakuake..." option, locate to
+   "Appearance" tab, press "Install skin..." button there, navigate to the
+   downloaded archive and open it;
+4. Choose "Pixelate" skin and "Apply" it.
 
 == Directory structure
 
-There are two directories and three files at top-level. The <em>pixelate</em> directory contain all PNGs. You can manually
-zip them to <em>tar.gz</em> archive. When you do that, you'll have a skin package. To install it, read <em>step 2</em> of installation guide.
-The <em>xcf</em> directory holds GIMP files. This is where you come in as designer. <em>Xcf's</em> directory structure is similar to <em>pixelate</em>.
-After editing the <em>.xcf</em>, you have to export PNG to <em>pixelate</em> directory. Make an archive from this directory and then install it.
-Oh, and don't forget about two configuration <em>.skin</em> files.
+The <em>pixelate</em> directory contains all PNGs. You can manually zip them to
+<em>tar.gz</em> archive. When you do that, you'll have a skinpackage. To install
+it, read <em>step 2</em> of installation guide. The <em>xcf</em> directory holds
+GIMP files. This is where you come in as designer. <em>Xcf's</em> directory
+structure is similar to <em>pixelate</em>. After editing the <em>.xcf</em>, you
+have to export PNG to <em>pixelate</em> directory. Make an archive from this
+directory and then install it. Oh, and don't forget about two configuration
+<em>.skin</em> files.
 
-== Cloning repository
+== Author
 
-Enter this into console:
+Kyrylo Silin (<tt>kyrylosilin@gmail.com</tt>)
 
-  git clone git@github.com:curacao/pixelate.git
+== License
 
-== Feedback
-
-You are able to send me emails on <tt>kirill@silin.in</tt>.
-
+This software is distributed under MIT License. See LICENSE for details.
